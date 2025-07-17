@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Formado em Desenvolvimento de Sistemas e graduando em Sistemas de Informação.<br>Entusiasta de programação back-end, front-end e mobile.<br>Atualmente realizando projetos próprios como aplicativos e mods para jogos.
+Formado em Desenvolvimento de Sistemas e graduando em Sistemas de Informação.<br>Programação back-end, front-end, mobile e ciência de dados.<br>Atualmente realizando iniciação científica na FAPEMIG para uso de RAG com dados abertos do governo, atividades da faculdade e projetos próprios como aplicativos e mods para jogos.
 
 
 ## 🌐 Socials:
