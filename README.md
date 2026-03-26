@@ -2,8 +2,6 @@
 
 # 💫 About Me:
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardo-vale) 
 
@@ -37,3 +35,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=BernardooVale&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BernardooVale&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardooVale&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BernardooVale&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
