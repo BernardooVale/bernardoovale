@@ -20,9 +20,6 @@
 🎓 Computer Science student graduating from the Federal University of Minas Gerais (UFMG)
 
 🎓 Technical degree in Systems Development from the Technical College of UFMG (Coltec)
-
-🔬 Undergraduate researcher at the Research Support Foundation of Minas Gerais (FAPEMIG),
-   developing LLM-powered chatbots augmented with RAG
    
 💡 Highly curious about cutting-edge computing technologies such as machine learning,
    quantum computing and quantitative finance, as well as everyday time-saving technologies
@@ -34,12 +31,9 @@
 
 # 🏗️ What am I currently working on:
     
-🧠 Developing an LLM-powered chatbot
-    
 📱 Developing a Gym app
     
 🏢 Fundamental data-driven algorithm to evaluate Brazilian stocks
-
 
 ---
 
