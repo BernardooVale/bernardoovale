@@ -30,10 +30,12 @@
 🌎 Born in Belo Horizonte, Brazil, with Portuguese citizenship
 
 # 🏗️ What am I currently working on:
+
+⚡ Energy Management Software at Sunus - Sistemas Fotovoltaicos
+
+📱 Gym app
     
-📱 Developing a Gym app
-    
-🏢 Fundamental data-driven algorithm to evaluate Brazilian stocks
+📈 Differential evolution algorithm to evaluate Brazilian stocks
 
 ---
 
